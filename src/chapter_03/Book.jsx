@@ -9,4 +9,6 @@ function Book(props){ //props로 name, num0fpage를 받아서 출력함.
     );
 }
 
+
+
 export default Book;
