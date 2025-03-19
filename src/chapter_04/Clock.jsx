@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import React from "react";
+>>>>>>> d0ebdc40ecca2a362b78ce7f5cbf8da82cfdbd69
 
 function Clock(props) {
     return(
